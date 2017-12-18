@@ -1,5 +1,6 @@
 EthicNode.org vuole perseguire l'idea che il Movimento ScambioEtico e TntVillage si sono preposti. Per questo motivo si considerano
 principi fondanti di EthicNode.org il proclama di ScambioEtico e lo Statuto di TntVillage cosi come riportati al 18/12/2017.
+Viene ereditato da TntVillage lo slogan: "TntVillage, Il P2P non è un crimine" -> "EthicNode, Il P2P non è un crimine"
 
 --Proclama ScambioEtico--
 
@@ -84,9 +85,11 @@ Disclaimer
     - Ricordate sempre che la violazione del copyright è un reato.
     - Chiunque non sia d'accordo con quanto precede e chi non ha almeno 18 anni, è invitato a non registrarsi e quindi a non 
       utilizzare le pagine del presente sito.
-    - Entrando in questo sito tutte le motivazioni ed avvertenze riportate nel presente testo si ritengono condivise e accettate senza alcuna remora.
+    - Entrando in questo sito tutte le motivazioni ed avvertenze riportate nel presente testo si ritengono condivise e accettate
+      senza alcuna remora.
     - I link sono soggetti a moderazione discrezionale dell'Admin.
-    - I titolari del diritto d'autore, o loro rappresentanti, possono richiedere, su carta intestata, la rimozione della loro opera senza ricorrere alle autoritïà.
+    - I titolari del diritto d'autore, o loro rappresentanti, possono richiedere, su carta intestata, la rimozione della loro
+      opera senza ricorrere alle autoritïà.
 
 
 Consigli utili
