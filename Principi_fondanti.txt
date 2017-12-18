@@ -1,0 +1,106 @@
+EthicNode.org vuole perseguire l'idea che il Movimento ScambioEtico e TntVillage si sono preposti. Per questo motivo si considerano
+principi fondanti di EthicNode.org il proclama di ScambioEtico e lo Statuto di TntVillage cosi come riportati al 18/12/2017.
+
+--Proclama ScambioEtico--
+
+ScambioEtico è un Movimento di Pensiero che si è sviluppato in Rete nell’estate del 2004.
+
+Questo Movimento di Pensiero si condensa in alcuni concetti che sono stati definiti il Proclama dello ScambioEtico:
+ScambioEtico è la condivisione senza scopo di lucro di opere protette dal diritto d’autore quando si auto-limita evitando di 
+mettere in condivisione film e musica con meno di 12 mesi dalla prima commercializzazione. ScambioEtico deve essere interpretato 
+come mediazione al problema della criminalizzazione generalizzata del peer to peer, [strike]prevedendo delle clausole con cui il 
+titolare del diritto d’autore può chiedere la rimozione dei link o dei torrent che puntano alle sue opere senza ricorrere alle 
+Autorità. ScambioEtico [/strike] è un impegno politico e deve essere una volontà manifesta di venire a patti con le Autorità e gli 
+Autori. [strike], ai quali proponiamo:”Se ci tollerate, possiamo promuovere questo tipo di file sharing”[/strike] L’obbiettivo di 
+ScambioEtico è l’Armistizio.
+
+L’ambizione di dare le gambe a questa idea si concretizza alla fine di marzo 2005 con la nascita di TNT Village, la prima Comunità 
+di file sharing che effettivamente pratica lo ScambioEtico allo slogan “il P2P non è un crimine”.
+
+All’inizio di novembre 2005 l’iniziativa di TNT Village viene pubblicamente presentata come una disobbedienza civile al Congresso 
+di Radicali Italiani.
+
+Nel frattempo nascono altre due Comunità che fanno riferimento al Proclama dello ScambioEtico. In seguito una dismette la attività 
+e l’altra abbandona la limitazione dei 18 mesi.
+Attualmente TNT Village è l’unica realtà che effettivamente pratica lo ScambioEtico.
+
+Bozza salvata alle 14:31:43. Ultima modifica di Luigi Di Liberto il 26 agosto 2012 alle 14:32
+Non rimuove il torrent o link
+
+Bozza salvata alle 16:00:33. Ultima modifica di Luigi Di Liberto il 26 settembre 2012 alle 16:01
+Cambia da 18 mesi a 1 anno
+
+--Statuto di TNTVillage--
+
+Questa Comunità è stata creata allo scopo di poter offrire a tutti gli Italiani, in particolare coloro che vivono all'estero, 
+l'opportunità di tenersi aggiornati in tema di cultura, di arte e di opere dell'ingegno attraverso la condivisione, senza fine 
+di lucro, di opere, anche tutelate da copyright, sulla rete P2P. Il fine principale di questo sito è quello di porre in evidenza 
+l'ormai obsoleta normativa sul diritto d'autore, che, causa la lunga durata della tutela di tali diritti, risulta essere un freno
+alla cultura ed alla diffusione della conoscenza, quindi una drastica riduzione di questi 'tempi di garanzia' è indispensabile 
+per far si che alcune opere possano essere liberamente diffuse, sia a scopi culturali ma anche più semplicemente a scopo 
+edonistico.
+Riteniamo necessaria ed urgente una riforma sostanziale della legge sulla tutela dei diritti d'autore, a scopo di sfruttamento 
+economico dell’opera, anche per liberare molte di quelle opere dimenticate nei sottoscala delle case di produzione e 
+distribuzione e poterle così restituire alla comunità mondiale.
+Siamo fermamente convinti della necessità di una maggiore diffusione dell’arte e dei saperi, ma nonostante ciò riteniamo doverosa
+la tutela della paternità di un’opera e come giusto ed equo il riconoscimento economico per l’autore della stessa.
+
+Per questi motivi su questo sito si condivide la trasparente intenzione di promuovere lo "Scambio Etico", sull'assunto del 
+proclama, che da vita al Movimento, per un mimimo di tutela, come primo passo verso il dialogo costruttivo con le "controparti".
+
+Diventa quindi necessario vietare la deposizione di torrent che puntino a:
+
+    - Materiale pornografico.
+    - Musica, con meno di 12 mesi dalla pubblicazione.
+    - Ebooks e audiobooks (Abooks) con meno di 12 mesi dalla data di prima pubblicazione dell'opera, con esclusione di tutta l'area
+      scolastica.
+    - Film, anime e cartoon con meno di 12 mesi dalla prima divulgazione nell'idioma in cui viene effettuata la condivisione.
+
+Di conseguenza alle linee guida principali è consentito condividere:
+
+    - Film, Anime e Cartoons: dopo 12 mesi dalla prima divulgazione nell'idioma in cui viene effettuata la condivisione. 
+      N.B. Sono consentiti i film a carattere erotico che su IMDB non sono classificati nel genere adult. 
+      N.B. I festival, concorsi etc. non c'entrano, la date sono solo di cinema o home video real/web.
+    - Musica: dopo 12 mesi dalla pubblicazione.
+    - Ebooks e Abooks dopo 12 mesi dalla prima pubblicazione.
+    - Libri Scolastici e Parascolastici senza alcuna limitazione.
+    - Videomusic: dopo 12 mesi dalla pubblicazione del brano musicale.
+    - Software, sistemi operativi, giochi per PC e Console senza alcuna limitazione.
+    - Shareware senza "cura" e tutto il freeware: senza nessun limite di tempo.
+    - Opere allegate ai quotidiani, periodici etc: dalla data di uscita del numero successivo, o comunque dopo 30 giorni dalla pubblicazione, ad esclusione di quanto già regolamentato.
+
+Sono invece consentite le condivisioni delle opere di Autori che hanno pubblicamente affermato di essere favorevoli alla 
+diffusione delle loro opere sulla rete P2P, così come tutto ciò che è stato divulgato dalla TV e che non sia gia espressamente 
+regolamentato dallo statuto.
+
+TNTVillage si riconosce pienamente nella proposta avanzata da Electronic Frontier Foundation di istituire un sistema di Licenze 
+Collettive e la sostiene come strumento per giungere, finalmente, alla legalizzazione delle condivisioni attualmente considerate
+illecite.
+
+
+Disclaimer
+
+    - Questo server non ospita nessun file ma solo i relativi TORRENT.
+    - Ricordate sempre che la violazione del copyright è un reato.
+    - Chiunque non sia d'accordo con quanto precede e chi non ha almeno 18 anni, è invitato a non registrarsi e quindi a non 
+      utilizzare le pagine del presente sito.
+    - Entrando in questo sito tutte le motivazioni ed avvertenze riportate nel presente testo si ritengono condivise e accettate senza alcuna remora.
+    - I link sono soggetti a moderazione discrezionale dell'Admin.
+    - I titolari del diritto d'autore, o loro rappresentanti, possono richiedere, su carta intestata, la rimozione della loro opera senza ricorrere alle autoritïà.
+
+
+Consigli utili
+
+    - Rispetta il tuo interlocutore.
+    - In discussione si mettono le idee, non chi le esprime.
+    - Delegittimare o denigrare il tuo interlocutore non renderà più le tue argomentazioni.
+    - La comunicazione fra individui è sempre difficile. Il buon senso consiglia di non azzardare interpretazioni creative dei 
+      concetti altrui, se hai dei dubbi chiedi delucidazioni.
+    - Prima di postare prenditi una pausa per rileggerti, meglio spendere qualche minuto in più per essere maggiormente chiari,
+      che scatenare flame potenzialmente infiniti.
+    - Vi invitiamo ad usare un linguaggio decoroso.
+    - Il sarcasmo è tanto divertente quanto pericoloso, usalo con moderazione
+    - Scatenare flame invecchia la pelle.
+
+
+Buona permanenza su TNTVillage
