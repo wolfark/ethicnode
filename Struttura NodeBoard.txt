@@ -1,0 +1,58 @@
+EthicNode ha bisogno di una piattaforma per funzionare. Abbiamo pensato di costruirla e renderla pubblica per chiunque abbia voglio
+di aprire una board di condivisione di materiale tramite tecnologia torrent (e chissà in futuro anche altre tecnologie).
+Il nome della Piattaforma e' BoardNode.
+
+
+Struttura BoardNode:
+blog
+Torrent Tracker
+Piattaforma di inserimento torrent (release)
+Torrent cache
+Motore di Ricerca torrent
+Forum per i commenti alla release e per discussioni generiche
+
+La piattaforma dovrà essere capace di:
+
+Inserire:
+   un torrent (da caricare sulla torrent cache)
+   una descrizione libera (o con sezioni libere e obbligatorie)
+   un tag categoria (o piu tag categoria (meglio solo uno))(film, ebook etc)
+   i tag specifici per categoria di appartertenenza (divx, xvid, pdf, sub_ita, lang_ita, etc)
+   i tag di progetti e cicli multicategoria (progetto_alanford, cura_disney)
+   i tag di serie (collane di libri, giornali, serie tv, etc) i tag di stagione e puntata (sXX, sXXeXX) tag di genere (horror, romantico)
+   i tag di team e di crew internazionali e non
+Verifica del torrent:
+  nome del mod o altro che ha verificato la release secondo i canoni da stabilire nello statuto e nei manifesti di sezione
+  
+Visualizzare:
+   la release presentata con i tag e le altre info della release
+   le info del torrent caricato (leech, seed, completi, last seed, peso file, elenco file etc)
+   i commenti su quella release
+ 
+Creare:
+   I progetti e i cicli
+   
+Visualizzare:
+   I progetti e i cicli multicategoria
+
+Effettuare:
+  Ricerche sulle release con vari filtri testuali e tramite selettore a tendina
+  Suggerire release simili per genere
+  
+ Gestire gli account utente
+  Assegnare poteri agli utenti(bannati, utente semplice, moderatore, dirigente, admin)
+  assegnare etichette agli utenti(donatore,coordinatore di progetto/ciclo, releaser team)
+  assegnare etichette senza portafoglio(coder, gattofilo, 1000 release etc)
+  sottoscrizione di release preferite (con feed e elenco delle sottoscrizioni)
+  avviso per nuova uscita release con tag specifici (progetti, cicli, tag di genere, tag di serie etc)
+  
+  
+ Gestione automatica delle donazioni.
+  
+   
+   
+   
+   
+   
+   
+
